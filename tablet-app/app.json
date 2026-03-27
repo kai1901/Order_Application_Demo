@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Sakura Order Tablet",
+    "slug": "sakura-order-tablet",
+    "version": "0.1.0",
+    "orientation": "landscape",
+    "android": {
+      "package": "com.sakura.ordertablet"
+    }
+  }
+}
